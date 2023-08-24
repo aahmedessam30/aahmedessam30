@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aahmedessam30&label=Profile%20views&color=0e75b6&style=flat" alt="aahmedessam30" /> </p>
 
-- 🌱 I’m currently learning **Nodejs, Aws, CI/CD,m Docker**
+- 🌱 I’m currently learning **Nodejs, Aws, CI/CD, Docker**
 
 - 💬 Ask me about **PHP, Laravel, Vuejs**
 
