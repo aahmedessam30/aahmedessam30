@@ -1,26 +1,114 @@
-<h1 align="center">Hi 👋, I'm Ahmed Essam Labib</h1>
-<h3 align="center">A passionate full stack developer from Egypt</h3>
+<h1 align="center">Hi there 👋, I'm Ahmed Essam</h1>
+<h3 align="center">Senior Backend & Full Stack Developer | Open Source Contributor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aahmedessam30&label=Profile%20views&color=0e75b6&style=flat" alt="aahmedessam30" /> </p>
-
-- 🌱 I’m currently learning **Nodejs, Aws, CI/CD, Docker**
-
-- 💬 Ask me about **PHP, Laravel, Vuejs**
-
-- 📫 How to reach me **aahmedessam30@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aahmedessam30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aahmedessam30" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aahmedessam30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aahmedessam30" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:aahmedessam30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/aahmedessam30" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/aahmedessam30" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aahmedessam30&show_icons=true&locale=en&layout=compact" alt="aahmedessam30" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aahmedessam30&show_icons=true&locale=en" alt="aahmedessam30" /></p>
+I'm a **Backend & Full Stack Developer** with 5+ years of experience building scalable, maintainable web applications and APIs using Laravel, Vue.js, and modern dev tools.  
+I'm passionate about writing clean code, automating development workflows, and contributing to open source.  
+I enjoy diving into system architecture, DevOps tools, and sharing my work with the community.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aahmedessam30&" alt="aahmedessam30" /></p>
+---
 
+## 🛠️ Tech Stack
+
+### 🧠 Programming Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+### 🔧 Backend
+![Laravel](https://img.shields.io/badge/Laravel-FC494E?style=flat-square&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/API%20Design-005571?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-5755d9?style=flat-square)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-0F172A?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-00A4FF?style=flat-square)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+### 💡 Practices & Soft Skills
+![Agile](https://img.shields.io/badge/Agile-02569B?style=flat-square)
+![TDD](https://img.shields.io/badge/TDD-AA0000?style=flat-square)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-4B8BBE?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FFB400?style=flat-square)
+![Collaboration](https://img.shields.io/badge/Team%20Collaboration-00C853?style=flat-square)
+
+---
+
+## 📦 Open Source Packages
+
+| Package | Description |
+|--------|-------------|
+| [**Lararabit**](https://github.com/aahmedessam30/lararabit) | Simplified RabbitMQ integration for Laravel |
+| [**SubSphere**](https://github.com/aahmedessam30/sub-sphere) | Scalable subscription management for Laravel |
+| [**API Versionizer**](https://github.com/aahmedessam30/api-versionizer) | Organize & version your Laravel APIs |
+| [**Git Toolkit**](https://github.com/aahmedessam30/laravel-git-toolkit) | Git operations from inside Laravel apps |
+| [**Laravel Autotranslate**](https://github.com/aahmedessam30/laravel-autotranslate) | Auto collect & manage translation keys |
+
+---
+
+## ⚒️ Tools I Enjoy
+
+- **PHPStorm** – for blazing-fast Laravel dev
+- **Visual Studio Code** – for quick edits and scripts
+- **Cursor** – Ai-powered code editor
+- **Copilot** – AI pair programmer
+- **Postman** – for testing APIs
+- **Insomnia** – for clean REST debugging
+- **Git** – for version control
+- **GitHub** – for version control and collaboration
+- **Docker**    – for containerized development
+- **TablePlus** – for managing databases easily
+
+---
+
+## 🎓 Currently Learning
+
+- Microservices and Domain-Driven Design  
+- Event-Driven Architecture with RabbitMQ and Kafka  
+- Kubernetes for scalable deployments  
+- Advanced Go for backend services
+
+---
+
+## 💬 Let's Connect
+
+📬 **Looking for collaboration, consulting, or full-time opportunities?**  
+Feel free to [email me](mailto:aahmedessam30@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/aahmedessam30).
+
+---
+
+> *“Strive for clarity, simplicity, and elegance in code — the rest will follow.”*
